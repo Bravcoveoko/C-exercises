@@ -1,11 +1,3 @@
-/**
- * ASCII Art font for PB071/HW02
- *
- * @file asciifont.h
- * @author Milan Fabian <milan.fabian@mail.muni.cz>
- * @date 10.03.2014
- */
-
 #ifndef ASCIIFONT_H
 #define ASCIIFONT_H
 
