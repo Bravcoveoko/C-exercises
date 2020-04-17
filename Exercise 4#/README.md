@@ -1,1 +1,1 @@
-Wokrking with dynamic allocation and input arguments
+Working with dynamic allocation and input arguments
